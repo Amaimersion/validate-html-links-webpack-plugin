@@ -1,0 +1,1 @@
+# validate-html-links-webpack-plugin
