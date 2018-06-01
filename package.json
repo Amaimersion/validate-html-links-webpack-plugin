@@ -1,0 +1,33 @@
+{
+    "name": "validate-html-links-webpack-plugin",
+    "version": "1.0.0",
+    "description": "A plugin for webpack which replaces invalid links in HTML files.",
+    "main": "index.js",
+    "author": {
+        "name": "Sergey Kuznetsov",
+        "url": "https://github.com/Amaimersion"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Amaimersion/validate-html-links-webpack-plugin"
+    },
+    "bugs": {
+        "url": "https://github.com/Amaimersion/validate-html-links-webpack-plugin/issues"
+    },
+    "license": "MIT",
+    "keywords": [
+        "webpack",
+        "webpack-plugin",
+        "plugin",
+        "build-automation",
+        "html",
+        "pug",
+        "jade",
+        "validate-html",
+        "validate-pug",
+        "validate-jade",
+        "validate-html-links",
+        "validate-pug-links",
+        "validate-jade-links"
+    ]
+}
